@@ -4,9 +4,9 @@ This is a working demo of the rails-backbone gem running https://github.com/code
 
 
 
-* Gotcha's
+=== Gotcha's
 
-gem "rails-backbone" is not a typo. (Even though github.com/codebrew/backbone-rails shows a reverse)
+* gem "rails-backbone" is not a typo. (Even though github.com/codebrew/backbone-rails shows a reverse)
 
-requires coffescript 2.2.0 not later
+* requires coffescript 2.2.0 not later
 
