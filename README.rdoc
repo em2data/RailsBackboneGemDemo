@@ -2,6 +2,10 @@
 
 This is a working demo of the rails-backbone gem running https://github.com/codebrew/backbone-rails
 
+== Contributors
+
+github user: gregvan 
+github user: em2data
 
 
 === Gotcha's
