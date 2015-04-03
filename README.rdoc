@@ -4,7 +4,8 @@ This is a working demo of the rails-backbone gem running https://github.com/code
 
 == Contributors
 
-github user: gregvan 
+github user: gregvan
+
 github user: em2data
 
 
@@ -14,3 +15,6 @@ github user: em2data
 
 * requires coffescript 2.2.0 not later
 
+== Latest changes
+
+April 3 added this line to gregvan-master then merged to upstream master.
