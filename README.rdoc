@@ -17,4 +17,4 @@ github user: em2data
 
 == Latest changes
 
-April 3 added this line to gregvan-master then merged to upstream master.
+removed alteration to RDOC file using g-master branch on gregvan's upstream repo
